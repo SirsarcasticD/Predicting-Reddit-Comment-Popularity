@@ -1,6 +1,5 @@
-# COMP 551 Mini-Project 1 (Group number: 118)
+# COMP 551 Mini-Project 1
 # Student Name: Cheuk Hang Leung (Eric), Donovan Chiazzese, Ingrid Feng
-# Student IDs: 260720788, 26080377, 260742780
 
 import json  # we need to use the JSON package to load the data, since the data is stored in JSON format
 import numpy as np
