@@ -400,7 +400,7 @@ MAE = sumError/num_of_examples                                              # MA
 print('MAE = ', MAE)
 
 
-# Lets plot some shit!
+# Lets plot!
 
 newfile = 'training_MSE.pk'
 
